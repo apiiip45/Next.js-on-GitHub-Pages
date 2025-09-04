@@ -65,8 +65,8 @@ GitHub Actions will now:
 * ✅ Deploy your app automatically to GitHub Pages
 
 Your site will be live at:
-> https://<your-username>.github.io/<repo-name>/
-(or at https://<your-username>.github.io/ if your repo is named <username>.github.io).
+> https://your-username.github.io/<repo-name>/
+(or at https://your-username.github.io/ if your repo is named username.github.io).
 ---   
 
 ## 🧪 Demo
